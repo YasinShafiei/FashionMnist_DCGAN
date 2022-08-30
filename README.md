@@ -1,5 +1,5 @@
 # FashionMnist_DCGAN
-This deep learning project will generate new cloth images using the Fashion MNIST dataset <br>
+This deep learning project will generate new cloth images using the Fashion MNIST dataset with PyTorch <br>
 
 ### Article:
 This is the link to my article about this project: <br>
